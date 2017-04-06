@@ -35,6 +35,7 @@ public class ListaCacambas extends javax.swing.JFrame {
         lblTexto = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setBackground(orange);
 
         jButton1.setText("Tela Inicial");
 
